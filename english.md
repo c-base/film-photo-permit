@@ -7,7 +7,7 @@ approval under any circumstances.
 = Application for Approval =
 Responsible for recording approval is the c-base circle. The circle is a
 democratic board that gathers every 1. and 14. of a month around 8pm.
-You desired date of recording can only lay after the upcoming circle
+Your desired date of recording can only lay after the upcoming circle
 event. Please send an application in advance to circle@c-base.org and
 show up for the next circle event to introduce yourself and your
 project. Your application should contain a brief project description,
@@ -59,7 +59,7 @@ circle decision:
     - Foto shooting, e.g. for an article or interview of an
       over-regional news magazine with all exploitational rights bound
       to a publisher or the author himself, no public-domain or
-      CreateCommons licensing and a total time of recording less than
+      CreativeCommons licensing and a total time of recording less than
       half a day:
         -> between 100 and 300 Euros
 
