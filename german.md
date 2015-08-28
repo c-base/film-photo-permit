@@ -1,8 +1,10 @@
 Video- und Fotoaufnahmen an Bord der c-base
+===========================================
 
 Wir freuen uns, daß Sie bei uns Drehen wollen, doch Video- und Fotoaufnahmen an Bord der c-base sind ein sensibles Thema und bedürfen in jedem Fall einer Genehmigung.
 
 Beantragung von Drehgenehmigungen
+---------------------------------
 
 Drehgenehmigungen werden vom circle erteilt. Der circle ist ein demokratisches Gremium, welches am 1. und 14. eines jeden Monats um 20:00 zusammentritt. Ihr gewünschter Drehtermin kann nur nach der nächsten circle-Sitzung liegen. Bitte schicken Sie Ihr Anliegen vorab an circle@c-base.org und kommen dann zur Sitzung vorbei um Ihr Projekt vorzustellen. Ihre Anfrage sollte Projektbeschreibung, Terminwunsch, Drehdauer, Lizenz- und Verwertungsrechte, und ein Angebot zur Motivmiete beinhalten.
 
@@ -16,10 +18,12 @@ Die Drehgenehmigung entbindet nicht von der Pflicht von jeder einzelnen Person, 
 Der Vorstand der c-base hat ein Vetorecht gegenüber allen circle-Beschlüssen. Er übt dieses jedoch nur in seltenen Ausnahmefällen aus.
 
 Räumlichkeiten
+--------------
 
 Die c-base hat zwei Decks. Das Oberdeck ist der öffentliche Teil der c-base. Im regulären Betrieb muss durch eindeutige Beschilderung auf die Aufnahmen hingewiesen werden. Das Unterdeck steht nur Vereinsmitgliedern zur Verfügung. Dreharbeiten im Unterdeck erforden ggf. zusätzliche Auflagen.
 
 Motivmiete
+----------
 
 Der circle verlangt ggf. die Zahlung einer Motivmiete, zusätzlich zur Kaution. Dies betrifft vor allem die kommerzielle Nutzung. Folgend ein paar unverbindliche Anhaltspunkte hierzu:
 
