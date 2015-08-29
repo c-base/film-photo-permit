@@ -5,8 +5,8 @@ Audio and Video Recordings Aboard c-base
 ----------------------------------------
 
 We are happy to hear you are interested in recording at c-base. However,
-audio recordings, video and photo shoots are a sensitive matter and do 
-require approval under all circumstances.
+video and photo shoots are a sensitive matter and do require approval under 
+all circumstances.
 
 Application for Approval
 ------------------------
